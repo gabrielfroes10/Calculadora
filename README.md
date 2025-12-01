@@ -36,25 +36,6 @@ Ferramenta avançada para formação de preço de venda baseada na estrutura de 
 
 ---
 
-## 🧠 Lógica do Markup Divisor
-
-A calculadora de precificação utiliza o método **Markup Divisor**, amplamente aceito na contabilidade de custos para garantir que a margem de lucro seja real sobre o preço de venda, e não apenas sobre o custo.
-
-**A Fórmula aplicada:**
-
-$$
-Preço = \frac{Custo\ Unitário}{1 - (\sum Taxas\%)}
-$$
-
-**Onde as Taxas incluem:**
-* Comissões de Vendedores
-* Tributos (Vendas + Lucro)
-* Custos Fixos (Rateio)
-* Despesas Fixas (Rateio)
-* Margem de Lucro Desejada
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído utilizando tecnologias web padrão, sem dependência de frameworks pesados, garantindo máxima performance e compatibilidade.
