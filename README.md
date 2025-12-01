@@ -10,8 +10,10 @@
 
 ## 🖼️ Preview
 
-![Screenshot do Projeto](https://via.placeholder.com/800x400.png?text=Coloque+o+Print+da+Sua+Calculadora+Aqui)
-*(Substitua esta imagem por um print real da sua aplicação)*
+![Screenshot do Projeto](<img width="1348" height="640" alt="image" src="https://github.com/user-attachments/assets/9b4ef9a3-8088-4440-95a0-422ccef09ae2" />
+
+![Uploading image.png…]()
+
 
 ---
 
